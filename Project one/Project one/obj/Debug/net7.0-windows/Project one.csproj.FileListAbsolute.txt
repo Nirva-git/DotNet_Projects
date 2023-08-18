@@ -1,0 +1,17 @@
+C:\Users\Paras\source\repos\Learning\Project one\Project one\bin\Debug\net7.0-windows\Project one.exe
+C:\Users\Paras\source\repos\Learning\Project one\Project one\bin\Debug\net7.0-windows\Project one.deps.json
+C:\Users\Paras\source\repos\Learning\Project one\Project one\bin\Debug\net7.0-windows\Project one.runtimeconfig.json
+C:\Users\Paras\source\repos\Learning\Project one\Project one\bin\Debug\net7.0-windows\Project one.dll
+C:\Users\Paras\source\repos\Learning\Project one\Project one\bin\Debug\net7.0-windows\Project one.pdb
+C:\Users\Paras\source\repos\Learning\Project one\Project one\obj\Debug\net7.0-windows\Project one.csproj.AssemblyReference.cache
+C:\Users\Paras\source\repos\Learning\Project one\Project one\obj\Debug\net7.0-windows\Project_one.Form1.resources
+C:\Users\Paras\source\repos\Learning\Project one\Project one\obj\Debug\net7.0-windows\Project one.csproj.GenerateResource.cache
+C:\Users\Paras\source\repos\Learning\Project one\Project one\obj\Debug\net7.0-windows\Project one.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Paras\source\repos\Learning\Project one\Project one\obj\Debug\net7.0-windows\Project one.AssemblyInfoInputs.cache
+C:\Users\Paras\source\repos\Learning\Project one\Project one\obj\Debug\net7.0-windows\Project one.AssemblyInfo.cs
+C:\Users\Paras\source\repos\Learning\Project one\Project one\obj\Debug\net7.0-windows\Project one.csproj.CoreCompileInputs.cache
+C:\Users\Paras\source\repos\Learning\Project one\Project one\obj\Debug\net7.0-windows\Project one.dll
+C:\Users\Paras\source\repos\Learning\Project one\Project one\obj\Debug\net7.0-windows\refint\Project one.dll
+C:\Users\Paras\source\repos\Learning\Project one\Project one\obj\Debug\net7.0-windows\Project one.pdb
+C:\Users\Paras\source\repos\Learning\Project one\Project one\obj\Debug\net7.0-windows\Project one.genruntimeconfig.cache
+C:\Users\Paras\source\repos\Learning\Project one\Project one\obj\Debug\net7.0-windows\ref\Project one.dll
